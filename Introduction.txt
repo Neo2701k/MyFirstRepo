@@ -1,0 +1,6 @@
+# MyFirstRepo
+# Brief Introduction About Myself
+
+Hi, I'm Neo. I'm currently learning programming languages and enrolled in a pathway course. I’m passionate about becoming a software engineer. I enjoy learning new technologies and collaborating on meaningful projects.
+
+I'm eager to develop games using Unity or Unreal Engine and build apps that can have a social impact.
